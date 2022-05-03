@@ -29,3 +29,23 @@ The code was coded in juypter notebook which is the source code editor that I re
 18. Once that is completed successfully , on the next line of code , please add your path of the classifier file that correlates with the path of the extracted folder. 
 19. Also please add your path of the images.png file that correlates with the path of the extracted folder. 
 20. Once the changes have been made correctly, you can run the rest of my code successfully. 
+
+# Vehicle Plate Number Recognition.ipynb 
+* Steps to access the code:
+1. Follow step number 6 from above
+2. Click on Codes folder, then click on VehiclePlateNumberRecognition System folder , then locate Vehicle Plate Number Recognition.ipynb file 
+3. Follow step number 8 from above
+4. Follow step number 9 from above
+5. After you have located the Vehicle Plate Number Recognition.ipynb file, click on it and it will open in juypter notebooks 
+6. Follow step number 11 from above
+7. Follow step number 12 from above 
+8. Once the terminal is loaded, please install the imported libraries from my code if not already installed by using the following commands: 
+9. pip install opencv
+10. pip install imutils
+11. pip install pytesseract
+12. pip install matplotlib
+13. pip install easy ocr
+14. follow step number 17 from above
+15. Once that is completed successfully, on the next line of code, please add the path of pytesseract file, it is located in the anaconda3 folder in your local folder, you add that path file in that line of code, then run the code to make sure it was completed correctly. 
+16.  Also please add your path of the VehicleInputImage.png file that correlates with the path of the extracted folder. 
+17.  follow step number 20 from above
