@@ -8,7 +8,7 @@ It contains a documentation folder that shows my research paper in IEEE format ,
 The code was coded in juypter notebook which is the source code editor that I recommended to use to run the code , but other editors can be used as well such as:visual studio code and Pycharm.
 
 # FaceRecognition.ipynb(Code file)
-#Steps to access the code:
+*Steps to access the code:
 1. click on the green button on the top right which says code then click on download zip file 
 2. Extract the zip folder into your local computer
 3. After the zip folder is extracted 
